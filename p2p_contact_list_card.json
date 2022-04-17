@@ -36,6 +36,11 @@
                         {
                             "type": "localcontact",
                             "local_contact_hash": "b9d48a16d25175f82a9eebc7f48433140f1eede8d9712e185066633be0000935"
+                        },
+                        "size":
+                        {
+                            "width":"medium",
+                            "height":"medium"
                         }
                     },
                     "texts":
